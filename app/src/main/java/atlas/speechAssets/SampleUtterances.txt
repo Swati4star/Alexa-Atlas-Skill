@@ -1,0 +1,8 @@
+PlayGame start a game
+PlayGame start atlas
+PlayGame lets play
+PlayGame play
+PlayGame play atlas
+PlayGame start game
+
+ContinueGame {COUNTRIES}

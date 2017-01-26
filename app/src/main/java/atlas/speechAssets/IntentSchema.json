@@ -1,0 +1,34 @@
+{
+  "intents": [
+    {
+      "intent": "PlayGame",
+      "slots": [
+        {
+          "name" : "country",
+          "type": "COUNTRIES"
+        }
+       ]
+    },
+    {
+      "intent": "ContinueGame",
+      "slots": [
+        {
+          "name" : "country",
+          "type": "COUNTRIES"
+        }
+       ]
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    },
+    {
+      "intent": "AMAZON.StartOverIntent"
+    }
+  ]
+}
