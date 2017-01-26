@@ -1,4 +1,4 @@
-# Alexa-Atlas-Skill
+# Alexa Skill : Atlas
 
 A sample skill for alexa using which users can play 'Atlas' game, a renowned game in which next user has to say a country name that starts with the letter, the previous country name ended. When user asks Alexa to start a new game, Alexa responds with a random country name. User can then say next country, and game goes on.
 
