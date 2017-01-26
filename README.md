@@ -27,6 +27,12 @@ A sample skill for alexa using which users can play 'Atlas' game, a renowned gam
 
 <b>Alexa</b> : Goodbye
 
+## Code structure
+The links for relevant files in the project
+- [Custom Slots](app/src/main/java/atlas/speechAssets/customSlotTypes)
+- [Sample utterances](app/src/main/java/atlas/speechAssets/SampleUtterances.txt)
+- [Intent Schema](app/src/main/java/atlas/speechAssets/IntentSchema.json)
+- [Handler](app/src/main/java/atlas/AtlasSpeechletRequestStreamHandler.java)
 
 ## Setup instructions
 To run this skill you need to do two things. The first is to deploy the alphonso code in lambda, and the second is to configure the Alexa skill to use Lambda.
