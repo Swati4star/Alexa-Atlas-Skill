@@ -2,6 +2,8 @@
 
 A sample skill for alexa using which users can play 'Atlas' game, a renowned game in which next user has to say a country name that starts with the letter, the previous country name ended. When user asks Alexa to start a new game, Alexa responds with a random country name. User can then say next country, and game goes on.
 
+<p align="center"> <img src="app/image.jpg"> </p>
+
 ## Setup instructions
 To run this skill you need to do two things. The first is to deploy the alphonso code in lambda, and the second is to configure the Alexa skill to use Lambda.
 
