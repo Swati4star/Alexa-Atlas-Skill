@@ -4,6 +4,30 @@ A sample skill for alexa using which users can play 'Atlas' game, a renowned gam
 
 <p align="center"> <img src="app/image.jpg"> </p>
 
+
+## Sample conversation
+
+<b>User</b>  : start game
+
+<b>Alexa</b> : Let us start a new game. I give you togo. You tell country with o.
+
+<b>User</b>  : Oman
+
+<b>Alexa</b> : Now I say namibia. You tell country with a.
+
+<b>User</b>  : Mexico
+
+<b>Alexa</b> : The country name is invalid.
+
+<b>User</b>  : Armenia
+
+<b>Alexa</b> : Now I say afghanistan. You tell country with n.
+
+<b>User</b>  : stop
+
+<b>Alexa</b> : Goodbye
+
+
 ## Setup instructions
 To run this skill you need to do two things. The first is to deploy the alphonso code in lambda, and the second is to configure the Alexa skill to use Lambda.
 
