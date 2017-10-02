@@ -35,6 +35,9 @@ The links for relevant files in the project
 - [Handler](app/src/main/java/atlas/AtlasSpeechletRequestStreamHandler.java)
 
 ## Setup instructions
+<img src="https://camo.githubusercontent.com/34b4528b94019892f5cd4f7c6e768f4246c1e4c2/68747470733a2f2f63646e2d696d616765732d312e6d656469756d2e636f6d2f6d61782f313230302f312a323459494b4f6436613838746570324e6f336a3262412e706e67"/>
+
+
 To run this skill you need to do two things. The first is to deploy the alphonso code in lambda, and the second is to configure the Alexa skill to use Lambda.
 
 ### AWS Lambda Setup
